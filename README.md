@@ -12,6 +12,8 @@ function getCategoriesFromAPI(){
 
 ```
 
+[Reference for HttpSocket](http://book.cakephp.org/1.3/en/The-Manual/Core-Utility-Libraries/HttpSocket.html)
+
 2. Use that Behavior in model
 
 ```
